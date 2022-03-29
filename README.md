@@ -19,6 +19,7 @@ https://kaoumrf.github.io/Meteroite-Explorer/
 1. clone project 
 2. run npm install in your command line
 3. run npm start 
+4. Follow [this](https://github.com/gitname/react-gh-pages) steps to deploy the app
 
 ### Dev dependencies
 ReactJS + Ant Design (antd)
